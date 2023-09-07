@@ -1,5 +1,7 @@
-<h1 align="center">EDUCATION</h1>
-<h3 align="center">BS Computer Science <br>
+<h1 align="center">Hi, I'm Ronan!</h1>
+
+<h1 align="left">EDUCATION</h1>
+<h3 align="left">BS Computer Science <br>
 2021 - Present <br><br></h3>
 
 <h1 align="center">CERTIFICATIONS</h1>
