@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Ronan Soriano</h1>
 <p align="center">My goal is to gain comprehensive and significant experiences that will provide me with valuable knowledge, skills, and professional growth that I can use to become an efficient in a real-world job environment.</p>
 
-<h3 align="left">📫 Connect with Me</h3>
+<h3 align="left"> 📫 Connect with Me</h3>
 <p align="left"><a href="mailto:ronansoriano06@gmail.com">ronansoriano06@gmail.com</a>
 </p>
 
-<h1 align="left">Languages and Tools:</h1>
+<h1 align="left"> 🛠️ Languages and Tools:</h1>
 <p align="left"> <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
 
 ## 🏫 Education
@@ -14,7 +14,7 @@
 - **Bachelor of Science in Computer Science**
   - *New Era University 2021 - Present*
 
-<h1 align="left">Certifications</h1>
+<h1 align="left"> 📜  Certifications</h1>
 <p align="left"><a href="https://simpli-web.app.link/e/UUKRnUJuTCb">Business Analytics with Excel</a> <br>
                    Simplilearn Corporation <br>
                    September 07, 2023 <br><br>
@@ -37,14 +37,14 @@
 
 ## 🛠️ Tech Achievement 
 
-### Power BI Projects
-- **[Prof Elec 4 Course Report](https://app.powerbi.com/view?r=eyJrIjoiNGM5ZDQ0ZGItY2YxNC00ZjAwLThlZmYtNWQwZjBjNTAxODIyIiwidCI6IjlmZjhiMGQxLWI4YjktNGQxNi05ZjRiLTU1OGM5YWRiMzM4MCIsImMiOjEwfQ%3D%3D)**
+### 📊 Power BI Projects
+- **[Prof Elec 4 Course Report](https://app.powerbi.com/view?r=eyJrIjoiNGM5ZDQ0ZGItY2YxNC00ZjAwLThlZmYtNWQwZjBjNTAxODIyIiwidCI6IjlmZjhiMGQxLWI4YjktNGQxNi05ZjRiLTU1OGM5YWRiMzM4MCIsImMiOjEwfQ%3D%3D)** - July 11, 2024
 
-- **[Snack Report using DAX](https://app.powerbi.com/view?r=eyJrIjoiMjU4ZTA2OTgtNzlkNS00MWVhLWFjYjMtNGI5YmE1NGI2NjU0IiwidCI6IjlmZjhiMGQxLWI4YjktNGQxNi05ZjRiLTU1OGM5YWRiMzM4MCIsImMiOjEwfQ%3D%3D)**
+- **[Snack Report using DAX](https://app.powerbi.com/view?r=eyJrIjoiMjU4ZTA2OTgtNzlkNS00MWVhLWFjYjMtNGI5YmE1NGI2NjU0IiwidCI6IjlmZjhiMGQxLWI4YjktNGQxNi05ZjRiLTU1OGM5YWRiMzM4MCIsImMiOjEwfQ%3D%3D)** - July 08, 2024
 
-- **[Soda Report for Year 2022](https://app.powerbi.com/view?r=eyJrIjoiZTk3N2I4ZGEtYzkzMC00NmNhLWEwYzMtM2U4Mzk3OThkZmQyIiwidCI6ImQ3NmQ5YjRmLWI3ODItNDE0MS1iODMwLTkwNzNkOTgwYzc2YiIsImMiOjEwfQ%3D%3D)**
+- **[Soda Report for Year 2022](https://app.powerbi.com/view?r=eyJrIjoiZTk3N2I4ZGEtYzkzMC00NmNhLWEwYzMtM2U4Mzk3OThkZmQyIiwidCI6ImQ3NmQ5YjRmLWI3ODItNDE0MS1iODMwLTkwNzNkOTgwYzc2YiIsImMiOjEwfQ%3D%3D)** - July 01, 2024
 
-### Software Engineering Design Patterns
+### 📚 Software Engineering Design Patterns
 - **[Solid Principles Repository](https://github.com/RonanSoriano/solidPrinciples)**
 
 - **[State Pattern Repository](https://github.com/RonanSoriano/statePattern)**
@@ -54,3 +54,35 @@
 - **[Observer Pattern Repository](https://github.com/RonanSoriano/observerPattern)**
 
 - **[Decorator Pattern Repository](https://github.com/RonanSoriano/decoratorPattern)**
+
+### 🌐 Application
+- **[MediBot](https://medibotkm.pythonanywhere.com)**
+
+
+## 💼 Skill Sets
+
+ ### 📊 Data Visualization Tools:
+- Power BI Desktop
+- Tableau Public
+
+### 💻 Programming Languages:
+- Java
+- Python
+- C++
+- C#
+- JavaScript
+
+### 🗄️ DBMS:
+-MongoDB
+- DB2
+- MySQL
+- Oracle
+
+### 🔧Dev Tools:
+- PHP
+- Lucidchart
+- Eclipse
+- Adobe Photoshop
+- Figma
+- JasperSoft Studio
+- Git
