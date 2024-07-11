@@ -72,22 +72,22 @@
 
 ## 💼 Skill Sets
 
- ### 📊 Data Visualization Tools:
+ ### 📊 Data Visualization Tools
 - Power BI Desktop
 - Tableau Public
 
-### 💻 Programming Languages:
+### 💻 Programming Languages
 - Java
 - Python
 
- ### 🗄️ DBMS:
+ ### 🗄️ DBMS
 - MongoDB
 - DB2
 - MySQL
 - Oracle
 - PhpMyAdmin
 
- ### 🔧 Dev Tools:
+ ### 🔧 Dev Tools
 - IntelliJ IDEA
 - Lucidchart
 - Visual Studio Code
