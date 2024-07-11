@@ -1,9 +1,12 @@
 <h1 align="center">Hi, I'm Ronan Soriano</h1>
 <p align="center">My goal is to gain comprehensive and significant experiences that will provide me with valuable knowledge, skills, and professional growth that I can use to become an efficient in a real-world job environment.</p>
 
-<h3 align="left"> 📫 Connect with Me</h3>
-<p align="left"><a href="mailto:ronansoriano06@gmail.com">ronansoriano06@gmail.com</a>
-</p>
+## 📫 Connect with Me
+📧 **Email:** [ronansoriano06@gmail.com](mailto:ronansoriano06@gmail.com)
+
+📞 **Phone Number:** +639567428592
+
+🌏 **Location:** Quezon City, Philippines
 
 <h1 align="left"> 🛠️ Languages and Tools:</h1>
 <p align="left"> <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
@@ -74,15 +77,15 @@
 - Java
 - Python
 
-### 🗄️ DBMS:
+ ### 🗄️ DBMS:
 - MongoDB
 - DB2
 - MySQL
 - Oracle
 - PhpMyAdmin
 
-### 🔧Dev Tools:
-- IntelliJ
+ ### 🔧 Dev Tools:
+- IntelliJ IDEA
 - Lucidchart
 - Visual Studio Code
 - Eclipse
