@@ -53,7 +53,7 @@
 - **[Soda Report for Year 2022](https://app.powerbi.com/view?r=eyJrIjoiZTk3N2I4ZGEtYzkzMC00NmNhLWEwYzMtM2U4Mzk3OThkZmQyIiwidCI6ImQ3NmQ5YjRmLWI3ODItNDE0MS1iODMwLTkwNzNkOTgwYzc2YiIsImMiOjEwfQ%3D%3D)** - July 01, 2024
 
 ### 📚 Software Engineering Design Patterns
-- **[Solid Principles](https://github.com/RonanSoriano/solidPrinciples)**
+- **[Solid Principles Pattern](https://github.com/RonanSoriano/solidPrinciples)**
 
 - **[State Pattern](https://github.com/RonanSoriano/statePattern)**
 
