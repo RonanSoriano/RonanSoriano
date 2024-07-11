@@ -53,15 +53,15 @@
 - **[Soda Report for Year 2022](https://app.powerbi.com/view?r=eyJrIjoiZTk3N2I4ZGEtYzkzMC00NmNhLWEwYzMtM2U4Mzk3OThkZmQyIiwidCI6ImQ3NmQ5YjRmLWI3ODItNDE0MS1iODMwLTkwNzNkOTgwYzc2YiIsImMiOjEwfQ%3D%3D)** - July 01, 2024
 
 ### 📚 Software Engineering Design Patterns
-- **[Solid Principles Repository](https://github.com/RonanSoriano/solidPrinciples)**
+- **[Solid Principles](https://github.com/RonanSoriano/solidPrinciples)**
 
-- **[State Pattern Repository](https://github.com/RonanSoriano/statePattern)**
+- **[State Pattern](https://github.com/RonanSoriano/statePattern)**
 
-- **[Builder Pattern Repository](https://github.com/RonanSoriano/builderPattern)**
+- **[Builder Pattern](https://github.com/RonanSoriano/builderPattern)**
 
-- **[Observer Pattern Repository](https://github.com/RonanSoriano/observerPattern)**
+- **[Observer Pattern](https://github.com/RonanSoriano/observerPattern)**
 
-- **[Decorator Pattern Repository](https://github.com/RonanSoriano/decoratorPattern)**
+- **[Decorator Pattern](https://github.com/RonanSoriano/decoratorPattern)**
 
 ### 🌐 Application
 - **[MediBot](https://medibotkm.pythonanywhere.com)**
