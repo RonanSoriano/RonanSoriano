@@ -23,7 +23,10 @@
  
   
 <h1 align="left"> 📜  Certifications</h1>
-<p align="left"><a href="https://simpli-web.app.link/e/UUKRnUJuTCb">Business Analytics with Excel</a> <br>
+<p align="left"><a href="https://www.credly.com/badges/f604cc32-cc14-454a-bb5c-8e3380ae31e0/public_url">Artificial Intelligence Fundamentals</a> <br>
+                   IBM SkillsBuild <br>
+                   June 28, 2024 <br><br>
+                  <a href="https://simpli-web.app.link/e/UUKRnUJuTCb">Business Analytics with Excel</a> <br>
                    Simplilearn Corporation <br>
                    September 07, 2023 <br><br>
                    <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=15B6F31926F45DBBA29289A2A9E2740BE82434415143F2B9675A121246BB0D3D">Oracle Cloud Data Management 2022 Certified Foundations Associate</a> <br>
