@@ -5,6 +5,9 @@
 <p align="left"><a href="mailto:ronansoriano06@gmail.com">ronansoriano06@gmail.com</a>
 </p>
 
+<h1 align="left">Languages and Tools:</h1>
+<p align="left"> <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
+
 ## 🏫 Education
 - **Information Communication Technology (SHS)**
   - *New Era University 2019 - 2021*
@@ -32,4 +35,22 @@
                    February 28, 2022 <br><br>
                    </p>
 
+## 🛠️ Tech Achievement 
 
+### Power BI Projects
+- **[Prof Elec 4 Course Report](https://app.powerbi.com/view?r=eyJrIjoiNGM5ZDQ0ZGItY2YxNC00ZjAwLThlZmYtNWQwZjBjNTAxODIyIiwidCI6IjlmZjhiMGQxLWI4YjktNGQxNi05ZjRiLTU1OGM5YWRiMzM4MCIsImMiOjEwfQ%3D%3D)**
+
+- **[Snack Report using DAX](https://app.powerbi.com/view?r=eyJrIjoiMjU4ZTA2OTgtNzlkNS00MWVhLWFjYjMtNGI5YmE1NGI2NjU0IiwidCI6IjlmZjhiMGQxLWI4YjktNGQxNi05ZjRiLTU1OGM5YWRiMzM4MCIsImMiOjEwfQ%3D%3D)**
+
+- **[Soda Report for Year 2022](https://app.powerbi.com/view?r=eyJrIjoiZTk3N2I4ZGEtYzkzMC00NmNhLWEwYzMtM2U4Mzk3OThkZmQyIiwidCI6ImQ3NmQ5YjRmLWI3ODItNDE0MS1iODMwLTkwNzNkOTgwYzc2YiIsImMiOjEwfQ%3D%3D)**
+
+### Software Engineering Design Patterns
+- **[Solid Principles Repository](https://github.com/RonanSoriano/solidPrinciples)**
+
+- **[State Pattern Repository](https://github.com/RonanSoriano/statePattern)**
+
+- **[Builder Pattern Repository](https://github.com/RonanSoriano/builderPattern)**
+
+- **[Observer Pattern Repository](https://github.com/RonanSoriano/observerPattern)**
+
+- **[Decorator Pattern Repository](https://github.com/RonanSoriano/decoratorPattern)**
