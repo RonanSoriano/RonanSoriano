@@ -1,17 +1,15 @@
 <h1 align="center">Hi, I'm Ronan Soriano</h1>
 <p align="center">My goal is to gain comprehensive and significant experiences that will provide me with valuable knowledge, skills, and professional growth that I can use to become an efficient in a real-world job environment.</p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 Connect with Me</h3>
 <p align="left"><a href="mailto:ronansoriano06@gmail.com">ronansoriano06@gmail.com</a>
 </p>
 
-<h1 align="left">Languages and Tools:</h1>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
-
-
-<h1 align="left">Education</h1>
-<p align="left">BS Computer Science <br>
-2024 - Present <br><br></p>
+## 🏫 Education
+- **Information Communication Technology (SHS)**
+  - *New Era University 2019 - 2021*
+- **Bachelor of Science in Computer Science**
+  - *New Era University 2021 - Present*
 
 <h1 align="left">Certifications</h1>
 <p align="left"><a href="https://simpli-web.app.link/e/UUKRnUJuTCb">Business Analytics with Excel</a> <br>
