@@ -9,11 +9,16 @@
 <p align="left"> <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
 
 ## 🏫 Education
-- **Information Communication Technology (SHS)**
-  - *New Era University 2019 - 2021*
-- **Bachelor of Science in Computer Science**
-  - *New Era University 2021 - Present*
 
+- **Information Communication Technology (SHS)**
+  - *New Era University*
+  - 2019 - 2021
+
+- **Bachelor of Science in Computer Science**
+  - *New Era University*
+  - 2021 - Present
+ 
+  
 <h1 align="left"> 📜  Certifications</h1>
 <p align="left"><a href="https://simpli-web.app.link/e/UUKRnUJuTCb">Business Analytics with Excel</a> <br>
                    Simplilearn Corporation <br>
@@ -68,21 +73,22 @@
 ### 💻 Programming Languages:
 - Java
 - Python
-- C++
-- C#
-- JavaScript
 
 ### 🗄️ DBMS:
--MongoDB
+- MongoDB
 - DB2
 - MySQL
 - Oracle
+- PhpMyAdmin
 
 ### 🔧Dev Tools:
-- PHP
+- IntelliJ
 - Lucidchart
+- Visual Studio Code
 - Eclipse
 - Adobe Photoshop
+- Adobe Premier Pro
 - Figma
 - JasperSoft Studio
 - Git
+- Cisco Packet Tracer
