@@ -11,7 +11,7 @@
 
 <h1 align="left">Education</h1>
 <p align="left">BS Computer Science <br>
-2021 - Present <br><br></p>
+2024 - Present <br><br></p>
 
 <h1 align="left">Certifications</h1>
 <p align="left"><a href="https://simpli-web.app.link/e/UUKRnUJuTCb">Business Analytics with Excel</a> <br>
