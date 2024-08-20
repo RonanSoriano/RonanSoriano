@@ -32,7 +32,7 @@
                    May 15, 2024 <br><br>
                   <a href="https://drive.google.com/file/d/1F4rECyltw0qGptxZlx8mQTEBa3xKBFV8/view?usp=sharing">Intro To Programming</a> <br>
                    Kaggle <br>
-                   May 15, 2024 <br><br>
+                   November 09, 2023 <br><br>
                   <a href="https://www.credly.com/badges/61d96abe-addc-45cd-ad53-65367b37b6ec/public_url">Data Analytics Essentials</a> <br>
                    CISCO <br>
                    October 05, 2023 <br><br>
