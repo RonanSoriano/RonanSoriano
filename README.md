@@ -23,9 +23,22 @@
  
   
 <h1 align="left"> 📜  Certifications</h1>
-<p align="left"><a href="https://www.credly.com/badges/f604cc32-cc14-454a-bb5c-8e3380ae31e0/public_url">Artificial Intelligence Fundamentals</a> <br>
+<p align="left">
+                  <a href="https://www.credly.com/badges/f604cc32-cc14-454a-bb5c-8e3380ae31e0/public_url">Artificial Intelligence Fundamentals</a> <br>
                    IBM SkillsBuild <br>
                    June 28, 2024 <br><br>
+                  <a href="https://drive.google.com/file/d/1m38zL2HKtr-m_Y2IUiGVEHA3rbPJcs-W/view?usp=sharing">PWNEU CTF</a> <br>
+                   New Era University CICS <br>
+                   May 15, 2024 <br><br>
+                  <a href="https://drive.google.com/file/d/1F4rECyltw0qGptxZlx8mQTEBa3xKBFV8/view?usp=sharing">Intro To Programming</a> <br>
+                   Kaggle <br>
+                   May 15, 2024 <br><br>
+                  <a href="https://www.credly.com/badges/61d96abe-addc-45cd-ad53-65367b37b6ec/public_url">Data Analytics Essentials</a> <br>
+                   CISCO <br>
+                   October 05, 2023 <br><br>
+                  <a href="https://www.credly.com/badges/0148f382-ecd0-49e3-b143-d8796485be39/public_url">Introduction to Data Science</a> <br>
+                   CISCO <br>
+                   October 15, 2023 <br><br>
                   <a href="https://simpli-web.app.link/e/UUKRnUJuTCb">Business Analytics with Excel</a> <br>
                    Simplilearn Corporation <br>
                    September 07, 2023 <br><br>
