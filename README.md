@@ -27,8 +27,8 @@
                   <a href="https://www.credly.com/badges/f604cc32-cc14-454a-bb5c-8e3380ae31e0/public_url">Artificial Intelligence Fundamentals</a> <br>
                    IBM SkillsBuild <br>
                    June 28, 2024 <br><br>
-                  <a href="https://drive.google.com/file/d/1m38zL2HKtr-m_Y2IUiGVEHA3rbPJcs-W/view?usp=sharing">PWNEU CTF</a> <br>
-                   New Era University CICS <br>
+                  <a href="https://drive.google.com/file/d/1m38zL2HKtr-m_Y2IUiGVEHA3rbPJcs-W/view?usp=sharing">Basic Cybersecurity Training and Capture-the-Flag Competition</a> <br>
+                   NEU Technology Center CICS <br>
                    May 15, 2024 <br><br>
                   <a href="https://drive.google.com/file/d/1F4rECyltw0qGptxZlx8mQTEBa3xKBFV8/view?usp=sharing">Intro To Programming</a> <br>
                    Kaggle <br>
